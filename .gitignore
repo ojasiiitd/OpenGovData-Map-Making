@@ -1,0 +1,3 @@
+*.zip
+./mapenv
+./HydroLAKES_points_v10_shp/*
